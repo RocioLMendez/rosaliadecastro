@@ -1,4 +1,4 @@
-# rosaliadecastro.github.io
+# rosaliadecastro
 
 Este repositorio es parte de un proyecto de investigación personal sobre la aplicación de metodologías cuantitativas y computacionales provenientes de las Humanidades Digitales a la obra poética de Rosalía de Castro. Actualmente los archivos aquí almacenados se están utilizando para realizar análisis poético y para generar ediciones digitales a partir de los archivos XML-TEI.
 
